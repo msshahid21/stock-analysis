@@ -28,14 +28,17 @@ This dataset only looks at 12 different stocks, and all of them are from the sam
 When it came to the runtime, the initial code used was very slow (for computers), therefore changes were made to the code to provide a much faster runtime using refactoring. This helped reduce the runtime significantly. The results are shown below in the table and supporting pictures.
 
 |  | 2017 Runtime | 2018 Runtime |
+|---|---|---|
 | Before Refactoring | 0.8047s | 0.8203s |
 | After Refactoring | 0.0781s | 0.0781s|
 
 Runtime Before Refactoring:
+
 ![2017 Runtime Before Refactoring](https://github.com/msshahid21/stock-analysis/blob/main/resources/Runtime_2017_Before.png)
-![2018 Runtime Before Refactoring]https://github.com/msshahid21/stock-analysis/blob/main/resources/Runtime_2018_Before.png)
+![2018 Runtime Before Refactoring](https://github.com/msshahid21/stock-analysis/blob/main/resources/Runtime_2018_Before.png)
 
 Runtime After Refactoring:
+
 ![2017 Runtime After Refactoring](https://github.com/msshahid21/stock-analysis/blob/main/resources/VBA_Challenge_2017.png)
 ![2018 Runtime After Refactoring](https://github.com/msshahid21/stock-analysis/blob/main/resources/VBA_Challenge_2018.png)
 
